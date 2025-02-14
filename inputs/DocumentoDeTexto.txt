@@ -1,0 +1,9 @@
+Olá, este é um teste de conversão de texto para fala usando o Azure Speech Studio.
+
+O objetivo deste experimento é avaliar a qualidade da síntese de voz e a naturalidade da entonação.
+
+Vamos testar diferentes frases para verificar a pronúncia e a clareza da voz gerada.
+
+A inteligência artificial está revolucionando a forma como interagimos com a tecnologia.
+
+Obrigado por participar deste teste!
